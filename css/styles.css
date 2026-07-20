@@ -33,7 +33,7 @@ body{
 
     background-image:
         linear-gradient(rgba(10,30,50,.65),rgba(10,30,50,.65)),
-        url("../images/hero.jpg");
+        url("../images/hero.png");
 
     background-size:cover;
 
